@@ -27,14 +27,17 @@ Este proyecto integra el uso de Python para el procesamiento de datos y Power BI
 ### Análisis de Desempeño Regional
 
 * Se identificó un desempeño crítico en la Región Central, la cual registró la utilidad más baja ($39,706 USD) y una contracción del -0.22% frente al año anterior, siendo la única región con crecimiento negativo.
+   [Ver detalle de región central](Imagenes/KPI%20centra.png)
 
 * El producto líder global, Canon imageCLASS 2200, no figura dentro del Top 5 en la Región Sur. Este comportamiento atípico sugiere posibles dinámicas locales como mayor competitividad en la categoría o limitaciones de inventario, lo que podría estar afectando su desempeño y representando una oportunidad de mejora en la estrategia comercial.
+  [Ver detalle de región south](Imagenes/kpi%20south.png)
 
 ### Segmentación y Materialidad
 
 * El segmento Consumer concentra la mayor parte de los ingresos, mientras que Home Office tiene una presencia mucho más baja. Esto deja ver una oportunidad clara para impulsar este segmento con una estrategia más enfocada.
 
 * Mediante un filtro de materialidad (pérdidas > $1,000 USD), se aislaron los productos con mayor impacto negativo en el flujo de caja. Destaca el producto  la Cubify CubeX 3D Printer Double Head Print, que con ventas de $11,100 USD genera una pérdida directa de -$8,880 USD (-80% de margen). Se recomienda la renegociación inmediata de costos con proveedores para estos productos
+*   [Ver detalle de KPI](Imagenes/KPI%20Margen.png)
 
 * El District of Columbia (36.98%) y los estados de Delaware (36.35%) y Minnesota (36.24%) concentran los mayores porcentajes de utilidad neta, posicionándose como las principales contribuciones al resultado total.
 
