@@ -13,6 +13,8 @@ Este proyecto integra el uso de Python para el procesamiento de datos y Power BI
 * DAX: Implementación de medidas de inteligencia de tiempo (YoY), variaciones porcentuales y formato condicional.
 
 ## Visualización del Proyecto
+![Dashboard Principal](Imagenes/Dashboard%20general.png)
+![Dashboard Principal filtros ](Imagenes/Dashboard%20general%20filtros.png)
 
 ## Hallazgos y Análisis de Negocio (Insights)
 
